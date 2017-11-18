@@ -63,16 +63,17 @@ footer.page-footer {
 .overflow-hidden {
   overflow: hidden;
 }
+/* Vlad's CSS Stylesheet */
  nav ul a,
  nav .brand-logo {
    color: white;
  }
- 
+
  nav{
    position: fixed;
    z-index: 100
  }
- 
+
  p {
    line-height: 2rem;
  }
@@ -83,30 +84,30 @@ footer.page-footer {
  #logo-image {
    width: 63px;
  }
- 
+
  .button-collapse {
    color: #87eaff;
- } 
+ }
  .how-to-text {
    text-align: center;
  }
- 
+
  .users_buttons li{
    display: inline-block;
    margin-right:5px;
  }
- 
+
  .users_buttons a {
    width: 130px;
  }
-  
+
  .icon-block {
    padding: 0 15px;
  }
  .icon-block .material-icons {
    font-size: inherit;
  }
- 
+
  footer.page-footer {
    margin: 0;
  }
